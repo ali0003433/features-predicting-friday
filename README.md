@@ -1,4 +1,4 @@
-# Classifying by Friday to explore bad news fridays
+# Classifying as published on Friday versus not Friday to explore bad news fridays
 
 
 ## Project Intro
